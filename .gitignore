@@ -140,7 +140,7 @@ logs/
 checkpoints/
 
 # Dataset files (large files)
-*.csv
+# *.csv
 *.xlsx
 *.json
 !hospital.xlsx
