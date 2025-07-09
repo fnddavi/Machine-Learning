@@ -1,0 +1,32 @@
+# Pacotes essenciais para o projeto
+numpy>=1.21.0
+pandas>=1.3.0
+matplotlib>=3.5.0
+seaborn>=0.11.0
+scikit-learn>=1.0.0
+Pillow>=8.3.0
+joblib>=1.0.0
+
+# Pacotes adicionais para análise de dados
+scipy>=1.7.0
+jupyter>=1.0.0
+ipython>=7.0.0
+
+# Pacotes para visualização avançada
+plotly>=5.0.0
+
+# Pacotes para manipulação de imagens
+opencv-python>=4.5.0
+imageio>=2.9.0
+
+# Pacotes para otimização
+optuna>=2.10.0
+
+# Pacotes para métricas avançadas
+imbalanced-learn>=0.8.0
+
+# Pacotes para logging
+tqdm>=4.62.0
+
+# Pacotes para serialização
+dill>=0.3.4
